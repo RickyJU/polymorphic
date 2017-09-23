@@ -31,3 +31,4 @@ Route::get('/read', function(){
 		return $photo->path;
 	}
 });
+
